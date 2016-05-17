@@ -43,5 +43,6 @@ application/pdf:
 
 3) Installed and Setup Solr and indexed all the downloaded pages
 4) Used Solr-PHP client as an interface to access Solr and created a UI to view the results when a query is searched
+5) Ranked the indexed pages based on Solr's DEFAULT INDEXING and PAGERANK
 5) Implemented a Auto-Suggest and SpellCorrect feature ad integrated it with the PHP Client
 
