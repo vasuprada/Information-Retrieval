@@ -1,0 +1,31 @@
+Navigational Queries:
+
+Faculty Profile Search Queries:
+1)Karen Halttunen Dornsife College
+2)Eric Friedlander USC Dana and David Dornsife College
+3)Steven L Lamy USC Dana and David Dornsife College
+
+Department Search Queries:
+1)Department of History USC Dana and David Dornsife College
+2)Department of Mathematics USC Dana and David Dornsife College
+3)Department of Physical Education Dornsife College
+
+USC Dana and David Dornsife College USC Maps and Directions
+
+USC Dornsife College of Letters,Arts and Sciences Founder Dana and David 
+
+USC David and Dana Dornsife College Alumni
+
+Informational Queries:
+
+1)USC Dornsife Applied Computational Mathematics Undergraduate Degree Requirements
+2)USC Dornsife Applied Computational Mathematics Masters Degree Requirements
+3)USC Dornsife Applied Mathematics PhD Degree Requirements
+
+Interpretation of Results and Conclusions:
+
+RQ1: According to the results tabulated and the related graph calcuated, it can be concluded that while considering the top 10 results for a given query (Navigational and Informational),Google returns more accurate results in comparison  to Bing.It can be observed that the initial results that are returned by both search engines are mostly similar (tabulated as Overlaps).However as one approaches the later results,the relevance vs irrelevance ratio is observed to be higher for Google when compared to Bing.
+
+RQ2: It can be observed that there is a significant difference when considering the relevance factor with respect to informational and navigational queries between the search engines.When considering navigational queries Google and  Bing find the correct page with an accuracy of 100% and 89% respectively ie Relevance vs Irrelevance ratio is higher for Google.With respect to Informational Queries,Google performs better than Bing with an accuracy of 70% and 40% respectively.
+     
+Considering the above two findings, it can be concluded that Google outperforms Bing in terms of relevant results returned overall.
